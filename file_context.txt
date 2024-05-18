@@ -49,7 +49,7 @@ def search_cc_music(query):
         return None
 
 # Example command from chat
-command = "Hey R2, could you please play 'Despacito' on YouTube?"
+command = "Hey Nero1, could you please play 'Despacito' on YouTube?"
 
 # Extract the query from the command
 query_start = command.find("play '") + len("play '")
